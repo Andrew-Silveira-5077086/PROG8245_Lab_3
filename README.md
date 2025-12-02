@@ -8,11 +8,19 @@
 * Gutenberg Corpus
 * The dataset Gutenberg Corpus is a collection of english texts from a  classic literature.
 * The dataset is freely available.
-NLTK includes a small selection of texts from the Project Gutenberg electronic text archive, which contains some 25,000 free electronic books
+* NLTK includes a small selection of texts from the Project Gutenberg electronic text archive, which contains some 25,000 free electronic books
 
 https://www.nltk.org/book/ch02.html
 
+### Models Implemented
 
+* Word2vec skip gram model
+* Glove Pretrained embeddings
+
+### Repository structure
+* EmbeddingClusteringVectorizationWorkshop_Fall2025.ipynb
+* glove.6B.50d (contains the glove embedding file)
+* Readme.MD
 
 ### Set Up
 
